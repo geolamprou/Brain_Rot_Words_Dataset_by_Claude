@@ -2,7 +2,7 @@
   <img src="https://github.com/geolamprou/Brain_Rot_Dataset/blob/main/Visualizations/brain_rot_words.png" width="500" height="500" >
 </p>
 
-## Brain Rot Dataset 
+## Brain Rot Words Dataset 
 
 At least one time in our lives we have been stuck on one single word which blowed our mind and after that we continiously pronounced it every moment. 
 With the latest phrase: "Six - Seven" i hade an idea to gather in one single dataset all the brain rot words from 2000 until today. 
