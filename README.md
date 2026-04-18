@@ -18,22 +18,22 @@ The refered visualizations are provided below:
 
 1. ### Brain Rot Words by Year and Publicity
    <p align="center">
-      <img src="https://github.com/geolamprou/Brain_Rot_Dataset/blob/main/Visualizations/Brain%20Rot%20Words%20by%20Year%20and%20Publicity.png" width="450" height="450" >
+      <img src="https://github.com/geolamprou/Brain_Rot_Dataset/blob/main/Visualizations/Brain%20Rot%20Words%20by%20Year%20and%20Publicity.png" width="800" height="800" >
    </p>
 
 2.  ### Countries from which Brain Rot Words came from
    <p align="center">
-      <img src="https://github.com/geolamprou/Brain_Rot_Dataset/blob/main/Visualizations/Countries%20from%20which%20Brain%20Rot%20Words%20came%20from.png" width="450" height="450" >
+      <img src="https://github.com/geolamprou/Brain_Rot_Dataset/blob/main/Visualizations/Countries%20from%20which%20Brain%20Rot%20Words%20came%20from.png" width="800" height="800" >
    </p>
 
 3. ### Publicity of Brain Rot Words
    <p align="center">
-      <img src="https://github.com/geolamprou/Brain_Rot_Dataset/blob/main/Visualizations/Publicity%20of%20Brain%20Rot%20Words.png" width="450" height="450" >
+      <img src="https://github.com/geolamprou/Brain_Rot_Dataset/blob/main/Visualizations/Publicity%20of%20Brain%20Rot%20Words.png" width="800" height="800" >
    </p>
 
 4. ### Plattforms and Apps where Brain Row Words spread
    <p align="center">
-      <img src="https://github.com/geolamprou/Brain_Rot_Dataset/blob/main/Visualizations/Platfforms%20and%20Apps%20where%20Brain%20Rot%20Words%20spread.png" width="450" height="450" >
+      <img src="https://github.com/geolamprou/Brain_Rot_Dataset/blob/main/Visualizations/Platfforms%20and%20Apps%20where%20Brain%20Rot%20Words%20spread.png" width="800" height="800" >
    </p>
 
 ### Have fun with this datasete and be careful. Words like these are able to blow your mind too! 
