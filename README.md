@@ -11,6 +11,7 @@ After the following data processing, I used Tableau to make some basic visualiza
 Especially i publish 3 datasets. The first 2 dataset contain: the Word, the	Meaning, the Year of Appearance, the Country of Origin, the Platform where each word spread and the Frequency.
 I also provide a third dataset wich contains the sources that Claude based on to extract data.
 
-# Have fun with this datasete and be careful. Words like these are able to blow your mind too! 
+### Have fun with this datasete and be careful. Words like these are able to blow your mind too! 
+
 
 
