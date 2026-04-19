@@ -36,7 +36,7 @@ The refered visualizations are provided below:
       <img src="https://github.com/geolamprou/Brain_Rot_Dataset/blob/main/Visualizations/Platfforms%20and%20Apps%20where%20Brain%20Rot%20Words%20spread.png" width="800" height="800" >
    </p>
 
-### Have fun with this dataset and be careful: Words like these are able to blow your mind too! 
+### Have fun with this dataset and be careful: Words like these are able to blow your mind! 
 
 
 
